@@ -1,2 +1,2 @@
-# learning-ansible
-Repository is a playground for learning ansible
+# learning devops
+Repository is a playground for learning things like vagrant, ansible, docker...
